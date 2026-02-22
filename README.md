@@ -1,1 +1,1 @@
-# Cafeteria-Menu-Display
+Cafeteria Menu Display
